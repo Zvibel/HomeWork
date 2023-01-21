@@ -11,6 +11,7 @@ Console.WriteLine("Введите число");
 int number = Convert.ToInt32(Console.ReadLine());
 string numberText = Convert.ToString(number);
 
+
 void CheckingNumber(string numberText)
 {
     if (numberText[0] == numberText[4] || numberText[1] == numberText[3])
