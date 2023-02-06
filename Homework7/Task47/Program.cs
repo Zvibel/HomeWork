@@ -35,7 +35,6 @@ void PrintMatrix(double[,] matrix)
         {
             Console.Write($"{matrix[i, j]} ");
         }
-
         Console.WriteLine();
     }
 }
