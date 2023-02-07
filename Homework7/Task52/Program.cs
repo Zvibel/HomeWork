@@ -57,25 +57,24 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
+void FindAverage(int[,] matrix)
+{
+    for (int j = 0; j < matrix.GetLength(1); j++)
+    {
+        double average = 0;
+        for (int i = 0; i < matrix.GetLength(0); i++)
+        {
+            average = average + matrix[i, j];
+        }
+        Console.Write($"{ average / matrix.GetLength(0)} ");
+        //average = average / matrix.GetLength(0);  
+    }
+}
+
 int countOfRows = GetNumber("Введите кол-во строк:");
 int countOfColumns = GetNumber("Введите кол-во столбцов:");
 int[,] matrix = InitMatrix(countOfRows, countOfColumns);
 
 PrintMatrix(matrix);
-
-/*void FindAverage(int[,] matrix)
-{
-    for (int i = 0; i < matrix.GetLength(1); i++)
-    {
-        double average = 0;
-        for (int j = 0; j < matrix.GetLength(0); j++)
-        {
-            average = average + matrix[i, j];
-        }
-        average = average / countOfRows;
-    }
-}
-
-PrintMatrix(matrix);
 Console.WriteLine();
-FindAverage(matrix);*/
+FindAverage(matrix);
