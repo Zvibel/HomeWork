@@ -1,0 +1,15 @@
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\bin\Debug\net7.0\Task64.exe
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\bin\Debug\net7.0\Task64.deps.json
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\bin\Debug\net7.0\Task64.runtimeconfig.json
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\bin\Debug\net7.0\Task64.dll
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\bin\Debug\net7.0\Task64.pdb
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\obj\Debug\net7.0\Task64.csproj.AssemblyReference.cache
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\obj\Debug\net7.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\obj\Debug\net7.0\Task64.AssemblyInfoInputs.cache
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\obj\Debug\net7.0\Task64.AssemblyInfo.cs
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\obj\Debug\net7.0\Task64.csproj.CoreCompileInputs.cache
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\obj\Debug\net7.0\Task64.dll
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\obj\Debug\net7.0\refint\Task64.dll
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\obj\Debug\net7.0\Task64.pdb
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\obj\Debug\net7.0\Task64.genruntimeconfig.cache
+C:\Users\CastAway\Desktop\GITGB\Projects\Homework\HomeWork\Homework9\Task64\obj\Debug\net7.0\ref\Task64.dll
