@@ -7,7 +7,7 @@
 10 09 08 07*/
 
 
-int n = 20;
+int n = 4;
 int[,] sqareMatrix = new int[n, n];
 
 int temp = 1;
